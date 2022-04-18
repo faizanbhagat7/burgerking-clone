@@ -1,7 +1,9 @@
 <h1>Burger King Website clone 🍔</h1>
 
 <h2> Link for the deployed version </h2>
+https://astonishing-malasada-823279.netlify.app
 
+<hr>
 
 <h3>🚀 Burger King Website User Interface </h3>
 <h3>🚀 Available for everyone</h3>
