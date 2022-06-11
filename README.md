@@ -1,5 +1,4 @@
-# burgerking-clone
-Burger King website (UI) clone<h1>Burger King Website clone 🍔</h1>
+<h1>Burger King Website clone 🍔</h1>
 
 <h2> Link for the deployed version </h2>
 https://exquisite-starship-c9a74a.netlify.app
