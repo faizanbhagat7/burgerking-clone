@@ -1,0 +1,126 @@
+
+
+.footwrap {
+  margin-top: 100px;
+  border-top: 1px solid  rgba(245, 198, 205, 0.486);
+margin-top: auto;
+  display: flex;
+  background-color:   rgba(245, 198, 205, 0.486);
+}
+
+.footimg img {
+  width: 480px;
+  height: 636px;
+  background-color: transparent;
+  bottom: 0;
+}
+
+.footimg {
+  width: 434px;
+  height: 489px;
+  align-items: flex-end;
+  background-color: transparent;
+  margin-left: 430px;
+  margin-top: -145px;
+}
+
+.foottxt {
+  display: flex;
+  flex-direction: column;
+  padding: 48px 40px 80px 0px;
+  background-color: transparent;
+
+}
+h1 {
+  color: #502314;
+  font-size: 56px;
+  font-weight: 900;
+  font-family: "Flame Bold", "Helvetica Neue", Helvetica, Arial, Verdana,
+    sans-serif;
+    background-color: transparent;
+  margin: 0px;
+  padding: 0px;
+}
+
+.foottxt {
+  padding: 48px 40px 80px 0px;
+  background-color: transparent;
+}
+
+h2 {
+  color: #502314;
+  margin: 0px 0px 20px;
+  font-size: 51px;
+  font-weight: 900;
+  font-family: "Flame Bold", "Helvetica Neue", Helvetica, Arial, Verdana,
+    sans-serif;
+  line-height: 0.8;
+  background-color:transparent;
+}
+
+.footdescript {
+  margin: 32px 0px 0px;
+  color: rgb(80, 35, 20);
+  font-size: 15px;
+  word-spacing: 1px;
+  background-color:transparent;
+}
+
+
+.andioslogo{
+margin-top:30px;
+  display: flex;
+  background-color:transparent;
+  align-items: center;
+}
+
+
+.andioslogo .img1 img{
+width:100%;
+  background-color: transparent;
+}
+
+.andioslogo .img1{
+width:133px;
+height: 43px;
+background-color: transparent;
+margin-right: 30px;
+}
+
+
+
+.andioslogo .img2 img{
+width:100%;
+  background-color: transparent;
+}
+
+.andioslogo .img2{
+width:133px;
+height: 43px;
+background-color: transparent;
+}
+
+
+@media (max-width:1100px){
+
+  .footwrap{
+    display: flex;
+    flex-direction: column;
+    align-items:   space-around;
+    justify-content: center;
+    background-color: transparent;
+  }
+
+  .footimg .img{
+    height: 400px;
+  }
+  .footimg{
+    margin-left: 90px;
+    margin-bottom: 50px;
+  }
+
+  .foottxt{
+    padding-left: 50px;
+  }
+}
+
